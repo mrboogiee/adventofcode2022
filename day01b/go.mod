@@ -1,4 +1,4 @@
-module day1b
+module day01b
 
 go 1.19
 

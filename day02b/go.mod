@@ -1,3 +1,3 @@
-module day3b
+module day02b
 
 go 1.16
