@@ -2,7 +2,7 @@
 
 Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 
-![](https://img.shields.io/badge/stars%20⭐-4-yellow) ![](https://img.shields.io/badge/days%20completed-2-red)
+![](https://img.shields.io/badge/stars%20⭐-12-yellow) ![](https://img.shields.io/badge/days%20completed-6-red)
 
 | day | Problem                 | A                       | B                       | Stars won                                             |
 | --: | :---------------------- | :---------------------- | :---------------------- | :---------------------------------------------------- |
